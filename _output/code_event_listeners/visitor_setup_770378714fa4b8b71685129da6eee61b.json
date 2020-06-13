@@ -1,0 +1,9 @@
+{
+    "event_id": "visitor_setup",
+    "execute_order": 10,
+    "callback_class": "Hampel\\HideSignatures\\Listener",
+    "callback_method": "visitorSetup",
+    "active": true,
+    "hint": "",
+    "description": "Adjust hide signatures permission for user"
+}
