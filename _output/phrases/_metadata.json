@@ -1,4 +1,28 @@
 {
+    "option.hampelHideSignaturesHint.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "1b215a38140cf6c24aa0351104b3987d"
+    },
+    "option_explain.hampelHideSignaturesHint.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "87c1a80cd6cb34d3afa8204fc3f827f9"
+    },
+    "option_group.hampelHideSignatures.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "3a971797012b01e62d7ee580616b2084"
+    },
+    "option_group_description.hampelHideSignatures.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "f06af329db929c9db7e5e152285e82bb"
+    },
     "permission.general_hampelHideSignatures.txt": {
         "global_cache": false,
         "version_id": 1000031,
