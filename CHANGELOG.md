@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.1.1 (2024-07-12)
+------------------
+
+* disable the option to hide signatures if the user doesn't have permission to do so
+
 1.1.0b1 (2020-06-13)
 --------------------
 
