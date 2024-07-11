@@ -5,5 +5,5 @@
     "enabled": true,
     "action": "str_replace",
     "find": "\t\t\t\t\tlabel=\"{{ phrase('show_peoples_signatures_with_their_messages') }}\" />",
-    "replace": "\t\t\t\t\tlabel=\"{{ phrase('show_peoples_signatures_with_their_messages') }}\"\n\t\t\t\t\thint=\"{{ $xf.options.hampelHideSignaturesHint }}\" />"
+    "replace": "\t\t\t\t\tlabel=\"{{ phrase('show_peoples_signatures_with_their_messages') }}\"\n\t\t\t\t\thint=\"{{ $xf.options.hampelHideSignaturesHint }}\"\n\t\t\t\t\tdisabled=\"{{ $xf.visitor.hasPermission('general', 'hampelHideSignatures') ? '' : 'disabled' }}\" />"
 }
