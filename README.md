@@ -5,9 +5,8 @@ This XenForo 2.x addon adds a permission to control which users can hide signatu
 
 By [Simon Hampel](https://xenforo.com/community/members/sim.4264/).
 
-Requirements
-------------
+* [Addon: Hide Signatures](https://xenforo.com/community/resources/hide-signatures.7857/)
+* [Discussion and support: Hide Signatures](https://xenforo.com/community/threads/hide-signatures.181640/)
 
-This addon has been tested on XenForo 2.1
 
 TODO: change position of permission
